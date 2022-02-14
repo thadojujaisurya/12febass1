@@ -1,0 +1,8 @@
+n1=int(input("Enter n1 value:"))
+n2=int(input("Enter n2 value:"))
+if(n1>=n2):
+    print("equal")
+elif(n2<=n1):
+    print("not equal")
+else:
+    print("not equal")
